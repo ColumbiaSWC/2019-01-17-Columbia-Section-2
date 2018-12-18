@@ -1,7 +1,7 @@
 ---
 layout: workshop                   
 carpentry: "swc"                    
-venue: "Columbia University, Butler Library, Room TBD"        
+venue: "Columbia University, Computing Fundamentals with Python"        
 address: "Butler Library, 535 W 114th St, New York, NY 10027"          
 country: "us"                      
 language: "en"                      
@@ -21,7 +21,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 ## Welcome!
 
-This is the landing site for Columbia's [Foundations for Reseach Computing](https://rcfoundations.research.columbia.edu/) January Bootcamp Section #2 (Python).
+This is the landing site for Columbia's [Foundations for Reseach Computing](https://rcfoundations.research.columbia.edu/) January Bootcamp Section #2 (Computing Fundamentals with Python).
 
 __While Python is a large part of the Bootcamp, it is not the exclusive focus.__ Our goal is to get you started in applying computational methods in your research processes. This means we'll walk though using [The Unix Shell](#syllabus-shell) and [Git](#syllabus-git) in addition to Python in order to develop fundamental and widely applicable skillsets.
 
