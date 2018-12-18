@@ -10,7 +10,7 @@ humandate: "Jan 17-18, 2019"
 humantime: "9:00am - 5:00pm"                  
 startdate: 2019-01-17
 enddate: 2019-01-18
-instructor: [Cesar Arias, David Balducci, John Pellman]
+instructor: [Brian Luna Lucero, Rob Lane, John Villa]
 helper: [tbd]
 email: ["rcfoundations@columbia.edu"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
@@ -21,9 +21,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 ## Welcome!
 
-This is the landing site for Columbia's [Foundations for Reseach Computing](https://rcfoundations.research.columbia.edu/) January Bootcamp #1 (Python). Our Python 1 Bootcamp is just the first group; it is not less advanced (i.e. level 1) than the other sessions.
+This is the landing site for Columbia's [Foundations for Reseach Computing](https://rcfoundations.research.columbia.edu/) January Bootcamp Section #2 (Python).
 
-__And while Python is a large part of the Bootcamp, it is not the exclusive focus.__ Our goal is to get you started in applying computational methods in your research processes. This means we'll walk though using [The Unix Shell](#syllabus-shell) and [Git](#syllabus-git) in addition to Python in order to develop fundamental and widely applicable skillsets.
+__While Python is a large part of the Bootcamp, it is not the exclusive focus.__ Our goal is to get you started in applying computational methods in your research processes. This means we'll walk though using [The Unix Shell](#syllabus-shell) and [Git](#syllabus-git) in addition to Python in order to develop fundamental and widely applicable skillsets.
 
 Below you'll find the schedule, syllabus, and setup instructions to go over __before the bootcamp begins__, as well as more information about the [Software Carpentries](https://software-carpentry.org/) curriculum.
 
