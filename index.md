@@ -17,16 +17,13 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
-
-
 ## Welcome!
 
 This is the landing site for Columbia's [Foundations for Reseach Computing](https://rcfoundations.research.columbia.edu/) January Bootcamp Section #2 (Computing Fundamentals with Python).
 
-__While Python is a large part of the Bootcamp, it is not the exclusive focus.__ Our goal is to get you started in applying computational methods in your research processes. This means we'll walk though using [The Unix Shell](#syllabus-shell) and [Git](#syllabus-git) in addition to Python in order to develop fundamental and widely applicable skillsets.
+__While Python is a large part of the Bootcamp, it is not the exclusive focus.__ Our goal is to get you started in applying computational methods in your research processes. This means we'll walk though using [The Unix Shell](#syllabus-shell) and [Git](#syllabus-git) in addition to Python in order to develop fundamental and widely applicable skillsets. This workshop is intended for novices; no prior experience in working with computer programming is presumed.
 
 Below you'll find the schedule, syllabus, and setup instructions to go over __before the bootcamp begins__, as well as more information about the [Software Carpentries](https://software-carpentry.org/) curriculum.
-
 <br>
 
 <h2 id="general">General Information</h2>
